@@ -1,0 +1,12 @@
+.headerbar{
+	box-shadow: inherit;
+	margin: 0px;
+	float: left;
+	transition-duration: 0.4s;
+}
+.headerbar:hover{
+	background-color: #fdad00!important;
+}
+.aa:hover{
+	color:#fff!important;
+}

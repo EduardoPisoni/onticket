@@ -1,0 +1,67 @@
+.carouselH{
+	height: 600px!important;
+}
+
+.blocoText{
+	position: absolute;
+    text-align: left;
+    z-index: 10;
+    float: left;
+    margin-left: 20%;
+    margin-top: 5%;
+    font-family: monospace;
+
+}
+.textConheca{
+	font-size: 120px;
+	color: white;
+	font-weight: bolder!important;
+	margin-left: 0px;
+	animation: entrada 2s;
+}
+@keyframes entrada {
+    0% {
+       margin-left: 150px;
+    }
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes entradaCaixa {
+    0% {
+       margin-left: 150px;
+    }
+    100% {
+        margin-left: 5px;
+    }
+}
+@keyframes entradaLogo {
+    0% {
+       margin-left: 200px;
+    }
+    100% {
+        margin-left: 0px;
+    }
+}
+.textForma{
+	font-size: 100px;
+	color: white;
+	font-weight: bolder!important;
+	float: left;
+	margin: 0px;
+	margin-left: 5px;
+	animation:  entradaCaixa 1.95s
+}
+.forma{
+	height: 120px;
+    width: 720px;
+    border: 0px;
+    background-color: #fdad00;
+    animation: entrada 1.9s;
+}
+.LogoSite{
+	height: 500px;
+    width: 700px;
+    margin-top: -5px;
+     animation: entradaLogo 2.2s;
+}

@@ -1,0 +1,30 @@
+.contentCompra{
+	padding-bottom: 55%;
+}
+.estrelas{
+	float:right;
+	margin-top: 20px;
+}
+.contentCompra h5, .descricao{
+	float: left;
+}
+.btnReserva{
+	text-decoration: none;
+    color: #fff;
+    background-color: #fdad00!important;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer;
+    width: 90%;
+    margin-top: 25%;
+}
+.btnReserva:hover{
+    background-color: #fdad00;
+    color: #fff;
+    font-weight: 500;
+}
+.react-calendar__tile--active {
+    background: #fdad00!important;
+    color: white;
+}

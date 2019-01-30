@@ -1,0 +1,33 @@
+.content, .subtitle{
+	text-align: left;
+}
+.content{
+	height: 150px;
+}
+.ponto{
+	color:#fdad00;
+	font-size: 45px;
+}
+.divcont{
+	height: 220px;
+}
+i{
+	color: #fdad00;
+}
+.img, .img1{
+	height: 88%!important;
+	width: 98%
+}
+.img:hover{
+	height: 90%!important;
+	width: 100%;
+	margin-left: -1%;
+	margin-bottom: -2.5%;
+	margin-top: 1%;
+}
+.img1:hover{
+	height: 90%!important;
+	width: 100%;
+	margin-left: -1%;
+	margin-top: -1%;
+}
