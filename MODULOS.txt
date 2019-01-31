@@ -1,0 +1,14 @@
+=create-react-app=
+	npm i -g create-react-app
+
+=react-materialize=
+	npm i react-materialize --save
+
+=react-router=
+	npm i react-router-dom --save
+
+=react-bootstrap=
+	npm install react-bootstrap boostrap
+
+=react-calendar=
+	npm i react-calendar
